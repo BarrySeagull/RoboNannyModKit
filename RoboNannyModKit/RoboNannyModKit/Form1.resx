@@ -127,6 +127,26 @@ YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
 YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
 YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, </value>
   </data>
+  <data name="textBox32.Text" xml:space="preserve">
+    <value>YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, </value>
+  </data>
+  <data name="textBox12.Text" xml:space="preserve">
+    <value>YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, 
+YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, YEP, </value>
+  </data>
   <metadata name="mnu_MainMenu.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
